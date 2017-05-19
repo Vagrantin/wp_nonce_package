@@ -1,7 +1,7 @@
 {
   "minimum-stability": "dev",
   "require-dev": {
-      "vagrantin/wp-nonce": "^0.2"
+      "vagrantin/wp-nonce": "^1.0"
   },
   "require": {
   }
